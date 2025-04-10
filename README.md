@@ -2,7 +2,7 @@
 
 A browser-based terminal emulator that mimics the macOS terminal with interactive functionality, file system simulation, and visual styling.
 
-![Terminal Screenshot](demo.png)
+[![Terminal Screenshot](demo.png)](https://youtu.be/CXr9i5oIpps)
 
 ## Features
 
