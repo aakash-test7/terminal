@@ -37,11 +37,13 @@ No installation required - runs directly in the browser. Simply open the `index.
 
 ## File Structure
 
+```
 macos-terminal/
-├── index.html # Main HTML file
-├── script.js # Main JavaScript logic
-├── filesystem.js # Virtual file system implementation
-└── styles.css # CSS styling
+├── index.html      # Main HTML file
+├── script.js      # Main JavaScript logic
+├── filesystem.js  # Virtual file system implementation
+└── styles.css     # CSS styling
+```
 
 ## Usage
 
